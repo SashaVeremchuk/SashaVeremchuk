@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExam45NXk1c213OW52cnV2ZTB4dXhlcjB4aTFha3F1c2h4dDd1cHg5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pDVwj7jgyif4Iagnrh/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFtd2w4c2ljZXQ5Y2xqNXZrcHo4cWp4Z2VobzZwNmRpYzlmNXlqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=SashaVeremchuk&style=flat-square&color=brightgreen" alt=""/>
